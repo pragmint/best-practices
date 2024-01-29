@@ -4,6 +4,8 @@ Summary
 
 ## Nuance
 
+Pushing for this when trust isn't there can further strain relations.
+
 ## Introspective Questions
 
 ## Resources

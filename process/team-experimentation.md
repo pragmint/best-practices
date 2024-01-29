@@ -4,6 +4,8 @@ Summary
 
 ## Nuance
 
+Teams need the right context to come up with efficient experiments. People need to be aligned.
+
 ## Introspective Questions
 
 ## Resources

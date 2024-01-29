@@ -1,11 +1,15 @@
 # [Loosely Coupled Architecture](https://dora.dev/devops-capabilities/technical/loosely-coupled-architecture/)
 
-Summary
+## Command and Query Responsibility Segregation
 
-## Nuance
+### Nuance
 
-## Introspective Questions
+### Introspective Questions
 
-## Resources
+### Resources
 
-## Exercises
+https://martinfowler.com/bliki/CQRS.html
+
+### Exercises
+
+## Domain-Driven Design
